@@ -1,8 +1,8 @@
 # Hi, I'm Praggy
 
-I build small, useful software around AI agents, native apps, and local-first workflows. A lot of my work starts as a personal itch: make the machine a little more capable, a little more private, and a lot less annoying.
+I am an indie dev building iOS apps, AI-assisted workflows, and small local-first tools. A lot of my work starts as a personal itch: make the machine a little more capable, a little more private, and a lot less annoying.
 
-I am especially interested in tools that help people ship with agents on real computers: authenticated sessions, local context, repeatable commands, and interfaces that feel calm enough to use every day.
+I am especially interested in native apps and tools that feel calm enough to use every day: thoughtful interfaces, private-by-default workflows, local models, and automation that helps without getting in the way.
 
 [![X](https://img.shields.io/badge/X-thepraggyverse-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/thepraggyverse)
 [![Threads](https://img.shields.io/badge/Threads-thepraggyverse-000000?style=flat-square&logo=threads&logoColor=white)](https://www.threads.com/@thepraggyverse?igshid=NTc4MTIwNjQ2YQ==)
@@ -30,7 +30,7 @@ A mashup of the agent, CLI, and native tooling I am actively shaping:
 
 - Local-first tools that keep private workflows private.
 - Agent-ready software that is scriptable, inspectable, and boring in the best way.
-- Native Apple-platform apps that feel focused instead of noisy.
+- iOS apps that feel focused instead of noisy.
 - Small utilities that start personal and become useful to other people.
 
 ## Stack I Reach For
