@@ -85,3 +85,16 @@ No standard build or test command was detected. Start by reading `README.md` and
 - Prefer `rg`/`rg --files` for search and inspect real files before editing.
 - Ask before changing protected config, credentials, release settings, generated artifacts, or external service behavior.
 - If context grows large, write a short handoff with completed work, changed files, verification, blockers, and the exact next action.
+
+<!-- BEGIN PRAGGY LOOP GUARDRAILS -->
+## Praggy Loop Guardrails
+
+- Treat `VISION.md` as direction, not implementation permission.
+- Treat requirements as product intent and plans as implementation boundaries.
+- Do not implement vision-only ideas until they become requirements, then a plan, then receive user confirmation.
+- Treat lint failures, flaky tests, unrelated broken checks, visual regressions, layout overlap, and accessibility regressions as real signals. Report scope clearly instead of ignoring them.
+- Do not manually edit generated files, generated changelogs, lockfile output, or build artifacts unless this repo explicitly expects that edit.
+- Do not add coauthor trailers, attribution, or public-facing metadata unless the owner asks.
+- In long-form markdown, prefer one complete sentence per physical line so review diffs stay clean.
+- Autoreview, browser proof, lavish artifacts, and no-mistakes gates are evidence, not permission to push, PR, merge, release, publish, or comment publicly.
+<!-- END PRAGGY LOOP GUARDRAILS -->

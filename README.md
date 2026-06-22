@@ -44,3 +44,23 @@ Swift, SwiftUI, Go, TypeScript, SQLite, macOS automation, iOS, local models, and
 ---
 
 Byronic indie dev, currently exploring the place where personal software, AI agents, and native apps meet.
+
+<!-- BEGIN PRAGGY PROJECT DOCS -->
+## Project Docs
+
+This repo uses a docs-first agent contract:
+
+- `README.md` explains the current project, commands, and how to run it.
+- `AGENTS.md` defines the rules future agents must obey.
+- `VISION.md` captures long-term direction, not implementation permission.
+- `OPINIONS.md` captures durable project taste, vocabulary, and tradeoffs.
+- `MEMORY.md` captures stable project facts agents should not rediscover.
+- `DESIGN.md` guides UI and UX decisions when the project has user-facing surfaces.
+- `docs/handoffs/orchestrator.md` is the control-room state for continuation.
+- `docs/brainstorms/` stores requirements and product-shape decisions.
+- `docs/plans/` stores implementation plans.
+- `docs/loops/` stores repeatable agent procedures.
+- `docs/qa/` stores feature, test case, defect, and regression ledgers.
+
+Vision ideas must become requirements, then a plan, then receive owner confirmation before implementation.
+<!-- END PRAGGY LOOP GUARDRAILS -->
