@@ -62,6 +62,9 @@ If the project changes direction, preserve the old view and why it changed.
 
 - Prefer controlled loops over one-off giant prompts.
 - Prefer quality, simplicity, robustness, scalability, and long-term maintainability over short-term development cost.
+- Treat the reusable unit inside a loop as a skill or documented procedure, not a vague prompt.
+- Cap loops before they run: max iterations, token/time budget, no-progress detection, and clear stop conditions.
+- Separate goals, live loops, and routines. A goal ends when evidence proves the condition. A loop repeats while supervised. A routine recurs on a schedule only after explicit approval.
 - Treat lint failures, flaky tests, broken checks, and visual regressions as real signals even when they look adjacent to the requested task.
 - Reproduce bugs through the closest end-user path before fixing when feasible.
 - Do not manually edit generated files, generated changelogs, lockfile output, or build artifacts unless the repo explicitly expects that edit.
