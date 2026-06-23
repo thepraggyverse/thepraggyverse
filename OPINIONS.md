@@ -62,6 +62,10 @@ If the project changes direction, preserve the old view and why it changed.
 
 - Prefer controlled loops over one-off giant prompts.
 - Prefer quality, simplicity, robustness, scalability, and long-term maintainability over short-term development cost.
+- Never choose a lower-quality path only to save tokens.
+- Mention cost only when unusually much work is running or a large choice depends on it.
+- Use scout passes for unclear work and ship passes for confirmed work.
+- Workers execute. Orchestrators coordinate. Workers should not recursively spawn more workers.
 - Treat the reusable unit inside a loop as a skill or documented procedure, not a vague prompt.
 - Cap loops before they run: max iterations, token/time budget, no-progress detection, and clear stop conditions.
 - Separate goals, live loops, and routines. A goal ends when evidence proves the condition. A loop repeats while supervised. A routine recurs on a schedule only after explicit approval.
@@ -69,5 +73,6 @@ If the project changes direction, preserve the old view and why it changed.
 - Reproduce bugs through the closest end-user path before fixing when feasible.
 - Do not manually edit generated files, generated changelogs, lockfile output, or build artifacts unless the repo explicitly expects that edit.
 - Do not add coauthor trailers, attribution, or public-facing metadata unless the owner asks.
+- Do not use em dash punctuation in owner-authored docs or public copy. Use a plain hyphen instead.
 - Prefer one complete sentence per physical line in long-form markdown.
 <!-- END PRAGGY LOOP GUARDRAILS -->
