@@ -12,8 +12,17 @@ I like thoughtful native apps, quiet automation, local models, and tools that fe
 
 ## Current Projects
 
+**Apps and tools**
+
 - **[Wayward](https://github.com/thepraggyverse/wayward)** - an early TypeScript project. More soon.
 - **[whisprlocal](https://github.com/thepraggyverse/whisprlocal)** - in-progress, fully on-device voice-to-text for iOS and keyboard workflows, powered by WhisperKit and MLX.
+
+**Plugins and skills**
+
+- **[steve-jobs](https://github.com/thepraggyverse/steve-jobs)** - 80 sj-prefixed operating skills for product craft, storytelling, hiring, strategy, learning, and failure review.
+- **[elon-musk](https://github.com/thepraggyverse/elon-musk)** - method skills for strategy, engineering, teams, risk, and execution.
+- **[naval](https://github.com/thepraggyverse/naval)** - n-prefixed skills inspired by ideas from The Almanack of Naval Ravikant.
+- **[avengers](https://github.com/thepraggyverse/avengers)** - an Avengers/Tony Stark operating-system skill pack for Codex-compatible agents.
 
 ## Contributing To
 
