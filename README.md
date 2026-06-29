@@ -10,6 +10,10 @@ I like thoughtful native apps, quiet automation, local models, and tools that fe
 [![Substack](https://img.shields.io/badge/Substack-thepraggyverse-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@thepraggyverse)
 [![Pinterest](https://img.shields.io/badge/Pinterest-thepraggyverse-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/thepraggyverse/)
 
+## Featured
+
+**[Marc Lou 32 Principles Checklist for Viral Products](https://github.com/thepraggyverse/marc-lou-32-principles-skill)** - an unofficial Codex-compatible skill that turns Marc Lou's viral product principles into a practical landing page audit, rewrite, pricing, OG image, and launch-copy checklist.
+
 ## Current Projects
 
 **Apps and tools**
@@ -23,6 +27,7 @@ I like thoughtful native apps, quiet automation, local models, and tools that fe
 - **[elon-musk](https://github.com/thepraggyverse/elon-musk)** - method skills for strategy, engineering, teams, risk, and execution.
 - **[naval](https://github.com/thepraggyverse/naval)** - n-prefixed skills inspired by ideas from The Almanack of Naval Ravikant.
 - **[avengers](https://github.com/thepraggyverse/avengers)** - an Avengers/Tony Stark operating-system skill pack for Codex-compatible agents.
+- **[marc-lou-32-principles-skill](https://github.com/thepraggyverse/marc-lou-32-principles-skill)** - a 32-principle viral product checklist skill for landing page audits and rewrites.
 
 ## Contributing To
 
