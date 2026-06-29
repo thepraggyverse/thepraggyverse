@@ -10,10 +10,6 @@ I like thoughtful native apps, quiet automation, local models, and tools that fe
 [![Substack](https://img.shields.io/badge/Substack-thepraggyverse-FF6719?style=flat-square&logo=substack&logoColor=white)](https://substack.com/@thepraggyverse)
 [![Pinterest](https://img.shields.io/badge/Pinterest-thepraggyverse-BD081C?style=flat-square&logo=pinterest&logoColor=white)](https://www.pinterest.com/thepraggyverse/)
 
-## Featured
-
-**[Marc Lou 32 Principles Checklist for Viral Products](https://github.com/thepraggyverse/marc-lou-32-principles-skill)** - an unofficial Codex-compatible skill that turns Marc Lou's viral product principles into a practical landing page audit, rewrite, pricing, OG image, and launch-copy checklist.
-
 ## Current Projects
 
 **Apps and tools**
