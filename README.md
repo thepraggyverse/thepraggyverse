@@ -19,11 +19,12 @@ I like thoughtful native apps, quiet automation, local models, and tools that fe
 
 **Plugins and skills**
 
+- **[bnb-founder-mode](https://github.com/thepraggyverse/bnb-founder-mode)** - a Brian Chesky-inspired local plugin with 150 `bnb-*` skills for founder mode, AI org design, product craft, recruiting, reinvention, and personal operating systems.
+- **[marc-lou-32-principles-skill](https://github.com/thepraggyverse/marc-lou-32-principles-skill)** - a product-marketing skill for landing page audits, rewrites, launch copy, pricing checks, and OG image prompts.
 - **[steve-jobs](https://github.com/thepraggyverse/steve-jobs)** - 80 sj-prefixed operating skills for product craft, storytelling, hiring, strategy, learning, and failure review.
 - **[elon-musk](https://github.com/thepraggyverse/elon-musk)** - method skills for strategy, engineering, teams, risk, and execution.
 - **[naval](https://github.com/thepraggyverse/naval)** - n-prefixed skills inspired by ideas from The Almanack of Naval Ravikant.
 - **[avengers](https://github.com/thepraggyverse/avengers)** - an Avengers/Tony Stark operating-system skill pack for Codex-compatible agents.
-- **[marc-lou-32-principles-skill](https://github.com/thepraggyverse/marc-lou-32-principles-skill)** - a 32-principle viral product checklist skill for landing page audits and rewrites.
 
 ## Contributing To
 
